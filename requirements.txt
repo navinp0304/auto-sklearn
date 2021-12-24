@@ -7,7 +7,7 @@ scipy>=1.7.0
 joblib
 scikit-learn>=0.23.0
 
-dask<2022.07
+dask<=2021.12
 distributed>=2.2.0,<2022.07
 pyyaml
 pandas>=1.0
